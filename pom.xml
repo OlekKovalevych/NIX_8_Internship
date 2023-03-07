@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+        <groupId>ua.com.alevel</groupId>
+        <artifactId>nix_8</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>hw_1_base_operations</module>
+        <module>hw_2_strings</module>
+        <module>reversestring</module>
+        <module>untitl_3_start_oop</module>
+        <module>module_1</module>
+        <module>unit_4_next_oop</module>
+        <module>hw_3_start_oop</module>
+        <module>hw_4_long_and_test</module>
+        <module>module__2</module>
+        <module>hw_5_collection</module>
+        <module>hw_6_calendar</module>
+
+    </modules>
+
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.sourse>17</maven.compiler.sourse>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
+</project>

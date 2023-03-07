@@ -1,0 +1,5 @@
+10981218
+12341223
+(54/12/9876)->Enter from the beginning of the line without spaces. Incorrect input format in this date or incorrect day or month. Example type: {2020/04/01}
+'34/12/2222'->Enter from the beginning of the line without spaces. Incorrect input format in this date or incorrect day or month. Example type: {2020/04/01}
+22221201
